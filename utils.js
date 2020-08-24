@@ -1,9 +1,4 @@
-// Modify this file to fulfill the requirements noted in the app.js file
-//
-// This file would be similar to that of the notes app (chalk not necessary)
-//
 // Create the necessary routines and display the results in the Terminal window
-//      (you can use the sql-tsts-tool to test your queries)
 
 const mysql = require('mysql')
 
